@@ -19,8 +19,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Amqp" options="--add-modules java.base" />
-      <module name="Notification" options="--add-modules java.base" />
+      <module name="Amqp" options="" />
+      <module name="Notification" options="" />
     </option>
   </component>
 </project>

@@ -49,4 +49,5 @@ public class NotificationConfig {
     public String getInternalNotificationRoutingKey() {
         return internalNotificationRoutingKey;
     }
+
 }
